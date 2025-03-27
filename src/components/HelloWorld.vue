@@ -6,7 +6,7 @@
   <!--------------------
     Header Section
   --------------------->
-  <section class="bg-[#ffd4d0] relative font-montserrat px-[120px]">
+  <section class="bg-[#ffd4d0] relative font-montserrat px-[124px]">
     <div class="w-36 h-36 bg-red-500 rounded-full absolute top-[-60px] left-[500px]"></div>
     <div class="">
       <div class="flex justify-between items-center py-10">
@@ -47,7 +47,7 @@
   <!--------------------
     About Me Section
   --------------------->
-  <section class="px-[120px] bg-black pt-16 pb-20 relative">
+  <section class="px-[124px] bg-black pt-16 pb-20 relative">
     <div class=" absolute bottom-0 left-1/2 transform -translate-x-1/2">
       <img src="../assets/img/semi-circle.png" alt="">
     </div>
@@ -79,9 +79,41 @@
   <!--------------------
     Services Section
   --------------------->
-  <section class="px-[120px] z-50 bg-white">
-    <div class="">
-      <h2>Services</h2>
+  <section class="px-[124px] py-16 z-50 bg-white">
+    <div class="text-center">
+      <h2 class="text-4xl font-bold mb-6">Services</h2>
+      <p class="text-[#1F1F1F]">Explore my design services, from user interface and experience to prototyping and
+        testing. Let's craft <br>exceptional digital experiences together.</p>
+    </div>
+    <div class="flex gap-8 mt-8">
+      <div>
+        <img src="../assets/img/vector.png" alt="">
+        <h2 class="text-lg font-bold leading-20">Design</h2>
+        <p>I specialize in web development and design, creating visually appealing, user-friendly digital experiences.
+        </p>
+      </div>
+      <div>
+        <img src="../assets/img/ellepse.png" alt="">
+        <h2 class="text-lg font-bold leading-20">Branding</h2>
+        <p>I'm a branding expert, crafting unique visual identities that tell your story and resonate with your
+          audience.
+        </p>
+      </div>
+      <div>
+        <img src="../assets/img/search.png" alt="">
+        <h2 class="text-lg font-bold leading-20">UX Research</h2>
+        <p>"I specialize in user experience research, collaborating on web development, and ensuring user-friendly
+          digital products.
+        </p>
+      </div>
+      <div>
+        <img src="../assets/img/task.png" alt="">
+        <h2 class="text-lg font-bold leading-20">Usability Testing</h2>
+        <p>I perform usability testing and optimize designs websites based on real-user feedback for seamless
+          interactions.
+        </p>
+      </div>
+
     </div>
   </section>
 </template>
