@@ -9,7 +9,7 @@
   <section class=" bg-[#ffd4d0]">
     <div class="ml-[120px] mr-[120px]">
       <div class="flex justify-between items-center py-10">
-        <p class="text-[#FC3314] text-3xl font-semibold"><span class="tracking-[-6px]">RR<span
+        <p class="text-[#FC3314] text-3xl font-semibold cursor-pointer"><span class="tracking-[-6px]">RR<span
               class="text-black">F</span></span> EXAM</p>
         <ul class="flex justify-between gap-8 font-bold text-lg">
           <li class="hover:text-[#FC3314]"><a href="#">About</a></li>
@@ -17,7 +17,8 @@
           <li class="hover:text-[#FC3314]"><a href="#">Portfolio</a></li>
           <li class="hover:text-[#FC3314]"><a href="#">Blog</a></li>
         </ul>
-        <a href="#" class="bg-black text-white py-3 px-6">Let's Talk</a>
+        <a href="#" class="bg-black text-white py-3 px-6 text-base font-bold hover:bg-[#4b413f]">Let's
+          Talk</a>
       </div>
     </div>
   </section>
