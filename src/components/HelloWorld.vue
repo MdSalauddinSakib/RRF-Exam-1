@@ -113,7 +113,82 @@
           interactions.
         </p>
       </div>
+    </div>
+  </section>
+  <!-- Services Section End -->
 
+  <!------------------------
+    My Portfolio Section
+  ------------------------->
+  <section>
+    <div class="px-[124px] pt-12 pb-36 bg-[#ffd4d0] text-center">
+      <h2 class="font-bold text-3xl mb-6">My Portfolio</h2>
+      <p>Explore my design services, from user interface and experience to prototyping and testing. Let's craft <br>
+        exceptional digital experiences together.</p>
+    </div>
+    <div class="flex justify-between px-[124px] -mt-25">
+      <div>
+        <img src="../assets/img/Image-1.jpg" alt="">
+        <div class="flex items-end justify-between mt-8">
+          <div>
+            <h2 class="font-bold text-xl mb-4">Educational Platform</h2>
+            <p>Web Design / Usability Testing</p>
+          </div>
+          <img src="../assets/img/send.png" alt="">
+        </div>
+      </div>
+      <div>
+        <img src="../assets/img/Image-2.jpg" alt="">
+        <div class="flex items-end justify-between mt-8">
+          <div>
+            <h2 class="font-bold text-xl mb-4">Travel App Design</h2>
+            <p>UX Research / App Design </p>
+          </div>
+          <img src="../assets/img/send.png" alt="">
+        </div>
+      </div>
+      <div>
+        <img src="../assets/img/Image-3.jpg" alt="">
+        <div class="flex items-end justify-between mt-8">
+          <div>
+            <h2 class="font-bold text-xl mb-4">Personal Page</h2>
+            <p>Web Design</p>
+          </div>
+          <img src="../assets/img/send.png" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="flex justify-between px-[124px] mt-16">
+      <div>
+        <img src="../assets/img/Image-4.jpg" alt="">
+        <div class="flex items-end justify-between mt-8">
+          <div>
+            <h2 class="font-bold text-xl mb-4">Furniture Mobile App</h2>
+            <p>App Design </p>
+          </div>
+          <img src="../assets/img/send.png" alt="">
+        </div>
+      </div>
+      <div>
+        <img src="../assets/img/Image-5.jpg" alt="">
+        <div class="flex items-end justify-between mt-8">
+          <div>
+            <h2 class="font-bold text-xl mb-4">Coffee House Landing Page</h2>
+            <p>UX Research / Web Design </p>
+          </div>
+          <img src="../assets/img/send.png" alt="">
+        </div>
+      </div>
+      <div>
+        <img src="../assets/img/Image-6.jpg" alt="">
+        <div class="flex items-end justify-between mt-8">
+          <div>
+            <h2 class="font-bold text-xl mb-4">Home Services Page</h2>
+            <p>Web Design / Marketing</p>
+          </div>
+          <img src="../assets/img/send.png" alt="">
+        </div>
+      </div>
     </div>
   </section>
 </template>
