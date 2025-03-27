@@ -36,9 +36,52 @@
           <a href="#" class="py-3 px-14 border text-base font-bold hover:bg-[#4b413f] hover:text-white">Portfolio</a>
         </div>
       </div>
+
       <div>
         <img src="../assets/img/Profile & bg.png" alt="">
       </div>
+    </div>
+  </section>
+  <!-- Header Section End -->
+
+  <!--------------------
+    About Me Section
+  --------------------->
+  <section class="px-[120px] bg-black pt-16 pb-20 relative">
+    <div class=" absolute bottom-0 left-1/2 transform -translate-x-1/2">
+      <img src="../assets/img/semi-circle.png" alt="">
+    </div>
+    <div class="text-white text-center">
+      <h2 class="text-4xl font-bold pb-6">About Me</h2>
+      <p class="leading-6">I'm John Smith, a UI/UX designer dedicated to crafting intuitive and visually stunning
+        digital <br> experiences.
+        With a passion for user-centric design, I transform ideas into functional and beautiful <br> interfaces. Let's
+        collaborate and shape the future of design together.</p>
+    </div>
+
+    <div class="flex justify-around pt-8">
+      <div class="text-center">
+        <p class="text-[#FFD4D0] text-[64px] font-bold">502</p>
+        <p class="text-white font-bold text-lg">Projects Done</p>
+      </div>
+      <div class="text-center">
+        <p class="text-[#FFD4D0] text-[64px] font-bold">10+</p>
+        <p class="text-white font-bold text-lg">Years of Experience</p>
+      </div>
+      <div class="text-center">
+        <p class="text-[#FFD4D0] text-[64px] font-bold">273+</p>
+        <p class="text-white font-bold text-lg">Clients Served</p>
+      </div>
+    </div>
+  </section>
+  <!-- About Me Section End -->
+
+  <!--------------------
+    Services Section
+  --------------------->
+  <section class="px-[120px] z-50 bg-white">
+    <div class="">
+      <h2>Services</h2>
     </div>
   </section>
 </template>
