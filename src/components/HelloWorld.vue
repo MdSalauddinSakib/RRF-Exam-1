@@ -79,7 +79,7 @@
   <!--------------------
     Services Section
   --------------------->
-  <section class="px-[124px] py-16 z-50 bg-white">
+  <section class="px-[124px] py-16 z-50 bg-[#f7f7f7]">
     <div class="text-center">
       <h2 class="text-4xl font-bold mb-6">Services</h2>
       <p class="text-[#1F1F1F]">Explore my design services, from user interface and experience to prototyping and
@@ -120,7 +120,7 @@
   <!------------------------
     My Portfolio Section
   ------------------------->
-  <section>
+  <section class="bg-[#f7f7f7] pb-16">
     <div class="px-[124px] pt-12 pb-36 bg-[#ffd4d0] text-center">
       <h2 class="font-bold text-3xl mb-6">My Portfolio</h2>
       <p>Explore my design services, from user interface and experience to prototyping and testing. Let's craft <br>
@@ -191,6 +191,104 @@
       </div>
     </div>
   </section>
+  <!-- My Portfolio Section End -->
+
+  <!-----------------------------
+    Core Design Skills Section
+  ------------------------------->
+  <section class="px-[124px] pt-20 bg-[#f7f7f7]">
+    <div class="text-center">
+      <h2 class="font-bold text-4xl mb-6">Core Design Skills</h2>
+      <p class="text-base mb-16">I excel in essential design skills, creating visually stunning and functional digital
+        experiences. From UI <br>
+        design to UX research, my passion is to craft effective and memorable digital solutions.</p>
+    </div>
+
+    <!-- horizontal chart -->
+    <div class="flex justify-around">
+      <div class="w-full max-w-lg space-y-2 p-4">
+        <div>
+          <div class="flex justify-between mb-1">
+            <span class="text-base font-bold">Interaction Design</span>
+          </div>
+          <div class="flex gap-4 items-center">
+            <div class="w-full bg-gray-200 h-[5px] flex gap-2">
+              <div class="bg-[#1F1F1F] h-[5px] w-[60%]"></div>
+            </div>
+            <p class="text-base font-bold">60%</p>
+          </div>
+        </div>
+
+        <div>
+          <div class="flex justify-between mb-1">
+            <span class="text-base font-bold">Usability Testing</span>
+          </div>
+          <div class="flex gap-4 items-center">
+            <div class="w-full bg-gray-200 h-[5px] flex gap-2">
+              <div class="bg-[#1F1F1F] h-[5px] w-[70%]"></div>
+            </div>
+            <p class="text-base font-bold">70%</p>
+          </div>
+        </div>
+
+        <div>
+          <div class="flex justify-between mb-1">
+            <span class="text-base font-bold">User Research</span>
+          </div>
+          <div class="flex gap-4 items-center">
+            <div class="w-full bg-gray-200 h-[5px] flex gap-2">
+              <div class="bg-[#1F1F1F] h-[5px] w-[45%]"></div>
+            </div>
+            <p class="text-base font-bold">45%</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full max-w-lg space-y-2 p-4">
+        <div>
+          <div class="flex justify-between mb-1">
+            <span class="text-base font-bold">Figma</span>
+          </div>
+          <div class="flex gap-4 items-center">
+            <div class="w-full bg-gray-200 h-[5px] flex gap-2">
+              <div class="bg-[#1F1F1F] h-[5px] w-[95%]"></div>
+            </div>
+            <p class="text-base font-bold">95%</p>
+          </div>
+        </div>
+
+        <div>
+          <div class="flex justify-between mb-1">
+            <span class="text-base font-bold">Prototyping</span>
+          </div>
+          <div class="flex gap-4 items-center">
+            <div class="w-full bg-gray-200 h-[5px] flex gap-2">
+              <div class="bg-[#1F1F1F] h-[5px] w-[80%]"></div>
+            </div>
+            <p class="text-base font-bold">80%</p>
+          </div>
+        </div>
+
+        <div>
+          <div class="flex justify-between mb-1">
+            <span class="text-base font-bold">Information Architecture</span>
+          </div>
+          <div class="flex gap-4 items-center">
+            <div class="w-full bg-gray-200 h-[5px] flex gap-2">
+              <div class="bg-[#1F1F1F] h-[5px] w-[50%]"></div>
+            </div>
+            <p class="text-base font-bold">50%</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Core Design Skills Section End -->
+  <!-----------------------------
+    Core Design Skills Section
+  ------------------------------->
+
+
 </template>
 
 <style scoped></style>
