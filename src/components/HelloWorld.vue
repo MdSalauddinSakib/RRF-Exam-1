@@ -473,6 +473,9 @@
       <a href="#" class=" text-3xl hover:text-[#fc3314]"><i class="fa-solid fa-basketball"></i></a>
       <a href="#" class=" text-3xl hover:text-[#fc3314]"><i class="fa-brands fa-facebook-f"></i></a>
     </div>
+    <div>
+      <p class="text-center mt-16">Alhamdulillah</p>
+    </div>
   </section>
   <!-- Footer Section End -->
 
