@@ -385,6 +385,66 @@
       </div>
     </div>
   </section>
+  <!-- Design Insights and Inspiration Section End -->
+
+  <!----------------------------
+    Get in Touch Section Start
+  ------------------------------>
+  <section class="p-[124px] bg-[#ffd4d0] relative">
+    <div class="absolute left-0 top-1/2 transform -translate-y-1/2"><img src="../assets/img/left-semicircle.png" alt="">
+    </div>
+    <div class="flex justify-between gap-[60px]">
+      <div class="flex flex-col justify-between">
+        <h2 class="text-4xl font-bold mb-4">Get in Touch</h2>
+        <p class="text-base mb-16">Have a question or a project in mind? I'd love to hear from you. Let's <br>chat and
+          make
+          something amazing
+          together.</p>
+        <address>
+          <div class="mb-8 text-base">
+            <i class="fa-solid fa-phone-volume"></i>&nbsp;&nbsp;&nbsp; +1205 5872 321
+          </div>
+          <div class="mb-8 text-base">
+            <i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;&nbsp; contact@sarajonesdesign.com
+          </div>
+          <div class="mb-8 text-base">
+            <i class="fa-solid fa-location-dot"></i>&nbsp;&nbsp;&nbsp; 1234 Design Street,Creativeville,
+            Webland,Imaginary State, 98765
+          </div>
+        </address>
+        <div class="flex gap-4">
+          <a href="#" class="bg-white px-4 py-3 rounded-full text-3xl text-black hover:text-[#fc3314]"><i
+              class="fa-brands fa-twitter"></i></a>
+          <a href="#" class="bg-white px-4 py-3 rounded-full text-3xl text-black hover:text-[#fc3314]"><i
+              class="fa-brands fa-instagram"></i></a>
+          <a href="#" class="bg-white px-4 py-3 rounded-full text-3xl text-black hover:text-[#fc3314]"><i
+              class="fa-solid fa-basketball"></i></a>
+          <a href="#" class="bg-white px-5 py-2 rounded-full text-3xl text-black hover:text-[#fc3314]"><i
+              class="fa-brands fa-facebook-f"></i></a>
+        </div>
+      </div>
+
+      <!-- form -->
+      <div>
+        <form action="">
+          <input type="text"
+            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="First Name"> <br>
+          <input type="email"
+            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="Email"> <br>
+          <input type="tel"
+            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="Phone Number">
+          <br>
+          <textarea class="w-full h-32 p-3 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="Your message"></textarea>
+          <button class=" mt-8"><a href="#"
+              class="bg-black text-white py-3 px-6 text-base font-bold hover:bg-[#4b413f]">Send Message</a></button>
+        </form>
+      </div>
+    </div>
+  </section>
 
 </template>
 
