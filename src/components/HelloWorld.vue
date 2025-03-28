@@ -134,7 +134,7 @@
             <h2 class="font-bold text-xl mb-4">Educational Platform</h2>
             <p>Web Design / Usability Testing</p>
           </div>
-          <img src="../assets/img/send.png" alt="">
+          <a href="#"><img src="../assets/img/send.png" alt=""></a>
         </div>
       </div>
       <div>
@@ -144,7 +144,7 @@
             <h2 class="font-bold text-xl mb-4">Travel App Design</h2>
             <p>UX Research / App Design </p>
           </div>
-          <img src="../assets/img/send.png" alt="">
+          <a href="#"><img src="../assets/img/send.png" alt=""></a>
         </div>
       </div>
       <div>
@@ -154,7 +154,7 @@
             <h2 class="font-bold text-xl mb-4">Personal Page</h2>
             <p>Web Design</p>
           </div>
-          <img src="../assets/img/send.png" alt="">
+          <a href="#"><img src="../assets/img/send.png" alt=""></a>
         </div>
       </div>
     </div>
@@ -166,7 +166,7 @@
             <h2 class="font-bold text-xl mb-4">Furniture Mobile App</h2>
             <p>App Design </p>
           </div>
-          <img src="../assets/img/send.png" alt="">
+          <a href="#"><img src="../assets/img/send.png" alt=""></a>
         </div>
       </div>
       <div>
@@ -176,7 +176,7 @@
             <h2 class="font-bold text-xl mb-4">Coffee House Landing Page</h2>
             <p>UX Research / Web Design </p>
           </div>
-          <img src="../assets/img/send.png" alt="">
+          <a href="#"><img src="../assets/img/send.png" alt=""></a>
         </div>
       </div>
       <div>
@@ -186,7 +186,7 @@
             <h2 class="font-bold text-xl mb-4">Home Services Page</h2>
             <p>Web Design / Marketing</p>
           </div>
-          <img src="../assets/img/send.png" alt="">
+          <a href="#"><img src="../assets/img/send.png" alt=""></a>
         </div>
       </div>
     </div>
@@ -362,7 +362,7 @@
         <div>
           <img src="../assets/img/design-2.jpg" alt="">
         </div>
-        <div class="p-4">
+        <div class="p-4 flex flex-col gap-2">
           <p class="font-normal text-sm">August 15, 2023 / UX</p>
           <h2 class="font-bold py-2">Color Psychology in UX</h2>
           <p>Explore how color choices impact user emotions and decision-making in UX design.</p>
@@ -375,7 +375,7 @@
         <div>
           <img src="../assets/img/design-3.jpg" alt="">
         </div>
-        <div class="p-4">
+        <div class="p-4 flex flex-col gap-2">
           <p class="font-normal text-sm">August 15, 2023 / UX</p>
           <h2 class="font-bold py-2">Boosting UX with Microinteractions</h2>
           <p>Discover the power of microinteractions in enhancing user experience and engagement.</p>
@@ -412,6 +412,7 @@
             Webland,Imaginary State, 98765
           </div>
         </address>
+        <!-- icon -->
         <div class="flex gap-4">
           <a href="#" class="bg-white px-4 py-3 rounded-full text-3xl text-black hover:text-[#fc3314]"><i
               class="fa-brands fa-twitter"></i></a>
@@ -428,16 +429,16 @@
       <div>
         <form action="">
           <input type="text"
-            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-[#fc3314]"
             placeholder="First Name"> <br>
           <input type="email"
-            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-[#fc3314]"
             placeholder="Email"> <br>
           <input type="tel"
-            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            class="placeholder-[#8D8D8D] p-4 w-[566px] bg-white mb-6 focus:outline-none focus:ring-2 focus:ring-[#fc3314]"
             placeholder="Phone Number">
           <br>
-          <textarea class="w-full h-32 p-3 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+          <textarea class="w-full h-32 p-3 bg-white focus:outline-none focus:ring-2 focus:ring-[#fc3314]"
             placeholder="Your message"></textarea>
           <button class=" mt-8"><a href="#"
               class="bg-black text-white py-3 px-6 text-base font-bold hover:bg-[#4b413f]">Send Message</a></button>
@@ -445,6 +446,11 @@
       </div>
     </div>
   </section>
+  <!-- Get in Touch Section End -->
+
+  <!----------------------------
+    Footer Section Start
+  ------------------------------>
 
 </template>
 
