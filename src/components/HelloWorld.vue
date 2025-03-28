@@ -451,6 +451,30 @@
   <!----------------------------
     Footer Section Start
   ------------------------------>
+  <section class="bg-black py-20 text-white ">
+    <div class="mb-16">
+      <ul class="flex justify-center gap-8 items-center text-xl font-bold">
+        <li class="hover:text-[#FC3314]"><a href="#">About</a></li>
+        <li class="hover:text-[#FC3314]"><a href="#">Services</a></li>
+        <li><a href="#">
+            <p class="text-3xl text-[#FC3314] font-semibold cursor-pointer mx-28"><span class="tracking-[-6px]"><span
+                  class="text-white">RR</span>F</span>&nbsp;EXAM</p>
+          </a></li>
+        <li class="hover:text-[#FC3314]"><a href="#">Portfolio</a></li>
+        <li class="hover:text-[#FC3314]"><a href="#">Blog</a></li>
+      </ul>
+    </div>
+
+    <p class="text-center">Follow me on social media:</p>
+
+    <div class="flex justify-center gap-8 mt-8">
+      <a href="#" class=" text-3xl hover:text-[#fc3314]"><i class="fa-brands fa-instagram"></i></a>
+      <a href="#" class=" text-3xl hover:text-[#fc3314]"><i class="fa-brands fa-twitter"></i></a>
+      <a href="#" class=" text-3xl hover:text-[#fc3314]"><i class="fa-solid fa-basketball"></i></a>
+      <a href="#" class=" text-3xl hover:text-[#fc3314]"><i class="fa-brands fa-facebook-f"></i></a>
+    </div>
+  </section>
+  <!-- Footer Section End -->
 
 </template>
 
