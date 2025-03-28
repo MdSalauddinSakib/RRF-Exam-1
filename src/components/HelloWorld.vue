@@ -329,6 +329,62 @@
       </div>
     </div>
   </section>
+  <!-- Testemonials Section End -->
+
+  <!----------------------------------------------
+    Design Insights and Inspiration Section Start
+  ------------------------------------------------>
+  <section class="px-[124px] py-[90px] bg-[#f7f7f7]">
+    <div class="text-center">
+      <h2 class="font-bold text-4xl mb-4">Design Insights and Inspiration</h2>
+      <p class="text-base mb-12">Discover industry insights, expert tips, and design inspiration. Stay updated with the
+        latest trends in <br>web
+        design and user experience.</p>
+    </div>
+    <!-- cart -->
+    <div class="flex justify-between gap-7">
+      <!-- cart 1 -->
+      <div class="bg-white overflow-hidden w-[336px]">
+        <div>
+          <img src="../assets/img/design-1.jpg" alt="">
+        </div>
+        <div class="p-4">
+          <p class="font-normal text-sm">August 15, 2023 / UX</p>
+          <h2 class="font-bold py-2">Typography Tips for Design Success</h2>
+          <p>Dive into the world of web typography and discover how to choose, pair, and optimize fonts for compelling
+            and readable digital designs.</p>
+          <a href="#" class="flex items-center gap-2 py-4 font-bold">Read More <img src="../assets/img/arrow-right.png"
+              class="w-6" alt=""></a>
+        </div>
+      </div>
+      <!-- cart 2 -->
+      <div class="bg-white overflow-hidden w-[336px]">
+        <div>
+          <img src="../assets/img/design-2.jpg" alt="">
+        </div>
+        <div class="p-4">
+          <p class="font-normal text-sm">August 15, 2023 / UX</p>
+          <h2 class="font-bold py-2">Color Psychology in UX</h2>
+          <p>Explore how color choices impact user emotions and decision-making in UX design.</p>
+          <a href="#" class="flex items-center gap-2 py-4 font-bold">Read More <img src="../assets/img/arrow-right.png"
+              class="w-6" alt=""></a>
+        </div>
+      </div>
+      <!-- cart 3 -->
+      <div class="bg-white overflow-hidden w-[336px]">
+        <div>
+          <img src="../assets/img/design-3.jpg" alt="">
+        </div>
+        <div class="p-4">
+          <p class="font-normal text-sm">August 15, 2023 / UX</p>
+          <h2 class="font-bold py-2">Boosting UX with Microinteractions</h2>
+          <p>Discover the power of microinteractions in enhancing user experience and engagement.</p>
+          <a href="#" class="flex items-center gap-2 py-4 font-bold">Read More <img src="../assets/img/arrow-right.png"
+              class="w-6" alt=""></a>
+        </div>
+      </div>
+    </div>
+  </section>
 
 </template>
 
