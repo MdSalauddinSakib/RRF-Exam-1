@@ -196,7 +196,7 @@
   <!-----------------------------
     Core Design Skills Section
   ------------------------------->
-  <section class="px-[124px] pt-20 bg-[#f7f7f7]">
+  <section class="px-[124px] pt-20 pb-24 bg-[#f7f7f7]">
     <div class="text-center">
       <h2 class="font-bold text-4xl mb-6">Core Design Skills</h2>
       <p class="text-base mb-16">I excel in essential design skills, creating visually stunning and functional digital
@@ -284,10 +284,52 @@
     </div>
   </section>
   <!-- Core Design Skills Section End -->
-  <!-----------------------------
-    Core Design Skills Section
-  ------------------------------->
 
+  <!-----------------------------
+    Testemonials Section Start
+  ------------------------------->
+  <section class="px-[124px] bg-[#FFD4D0]">
+    <div class="">
+      <div class="slider text-center">
+        <div class="single-slide-item">
+          <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
+          <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
+            transformed our <br> website,
+            enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
+            Highly
+            recommended!</p>
+          <div class="flex justify-center items-center gap-4">
+            <img src="../assets/img/testimonials.png" alt="">
+            <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
+          </div>
+        </div>
+        <div class="single-slide-item">
+          <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
+          <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
+            transformed our <br> website,
+            enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
+            Highly
+            recommended!</p>
+          <div class="flex justify-center items-center gap-4">
+            <img src="../assets/img/testimonials.png" alt="">
+            <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
+          </div>
+        </div>
+        <div class="single-slide-item">
+          <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
+          <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
+            transformed our <br> website,
+            enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
+            Highly
+            recommended!</p>
+          <div class="flex justify-center items-center gap-4">
+            <img src="../assets/img/testimonials.png" alt="">
+            <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
 </template>
 
