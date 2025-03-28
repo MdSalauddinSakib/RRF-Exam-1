@@ -3,48 +3,39 @@
 @import "tailwindcss";
 
 @theme {
-  --font-montserrat: "Montserrat", sans-serif; 
+    --font-montserrat: "Montserrat", sans-serif;
 }
 
-.single-slide-item:after {
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    content: "";
-}
-
-.slick-arrow{
+.slick-arrow {
     position: absolute;
     left: -30px;
     top: 50%;
     margin-top: -13px;
-    height: 26px;
-    width: 26px;
+    height: 44px;
+    width: 44px;
     color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.slick-arrow.right-arrow{
+.slick-arrow.right-arrow {
     left: auto;
     right: -30px;
 }
 
-ul.slick-dots button{
+ul.slick-dots button {
     display: none;
 }
 
-ul.slick-dots{
+ul.slick-dots {
     list-style: none;
     display: flex;
     justify-content: center;
 
 }
 
-ul.slick-dots li{
+ul.slick-dots li {
     height: 10px;
     width: 10px;
     background-color: blue;
@@ -53,11 +44,10 @@ ul.slick-dots li{
     cursor: pointer;
 }
 
-ul.slick-dots li.slick-active{
+ul.slick-dots li.slick-active {
     background-color: #000;
 }
 
-ul.slick-dots li.slick-active{
+ul.slick-dots li.slick-active {
     background-color: green;
 }
-

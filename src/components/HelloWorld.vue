@@ -288,44 +288,43 @@
   <!-----------------------------
     Testemonials Section Start
   ------------------------------->
-  <section class="px-[124px] bg-[#FFD4D0]">
-    <div class="">
-      <div class="slider text-center">
-        <div class="single-slide-item">
-          <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
-          <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
-            transformed our <br> website,
-            enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
-            Highly
-            recommended!</p>
-          <div class="flex justify-center items-center gap-4">
-            <img src="../assets/img/testimonials.png" alt="">
-            <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
-          </div>
+  <section class="px-[124px] bg-[#FFD4D0] relative pb-16">
+    <div class="absolute top-0 left-1/2 transform -translate-x-1/2 w-32 h-16 bg-red-500 rounded-b-full"></div>
+    <div class="slider text-center">
+      <div class="single-slide-item">
+        <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
+        <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
+          transformed our <br> website,
+          enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
+          Highly
+          recommended!</p>
+        <div class="flex justify-center items-center gap-4">
+          <img src="../assets/img/testimonials.png" alt="">
+          <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
         </div>
-        <div class="single-slide-item">
-          <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
-          <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
-            transformed our <br> website,
-            enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
-            Highly
-            recommended!</p>
-          <div class="flex justify-center items-center gap-4">
-            <img src="../assets/img/testimonials.png" alt="">
-            <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
-          </div>
+      </div>
+      <div class="single-slide-item">
+        <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
+        <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
+          transformed our <br> website,
+          enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
+          Highly
+          recommended!</p>
+        <div class="flex justify-center items-center gap-4">
+          <img src="../assets/img/testimonials.png" alt="">
+          <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
         </div>
-        <div class="single-slide-item">
-          <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
-          <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
-            transformed our <br> website,
-            enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
-            Highly
-            recommended!</p>
-          <div class="flex justify-center items-center gap-4">
-            <img src="../assets/img/testimonials.png" alt="">
-            <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
-          </div>
+      </div>
+      <div class="single-slide-item">
+        <h1 class="text-4xl font-bold pt-24 mb-8">Testemonials</h1>
+        <p class="text-base mb-8">Sara Jones's designs are both visually captivating and highly effective. She
+          transformed our <br> website,
+          enhancing user engagement and conversions. Her attention to detail and creative <br> approach are top-notch.
+          Highly
+          recommended!</p>
+        <div class="flex justify-center items-center gap-4">
+          <img src="../assets/img/testimonials.png" alt="">
+          <p class="text-base"><span class="font-bold">John Smith </span>/ CEO of XYZ Company</p>
         </div>
       </div>
     </div>
